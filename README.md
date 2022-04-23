@@ -1,24 +1,10 @@
-# hello-world
+npm i
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
+打包
 npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+启动
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm start
+
+<!-- 如果 npm start 报错，找到文件夹跟目录，右键选择 git base ,在 git bash 中npm start -->
